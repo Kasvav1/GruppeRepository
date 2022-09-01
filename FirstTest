@@ -1,0 +1,2 @@
+function plus(tall1,tall2) { tall1,tall2;}
+plus(2,3)
