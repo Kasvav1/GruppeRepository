@@ -1,2 +1,5 @@
-function plus(tall1,tall2) { tall + tall2;}
+function plus(tallV, tallH) {
+    return tallV + tallH;
+}
+
 plus(2,3)
